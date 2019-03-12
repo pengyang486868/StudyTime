@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--  颜色配置  -->
+    <!--  primary  -->
+    <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="#94C0D3" />
+    <SolidColorBrush x:Key="PrimaryHueLightForegroundBrush" Color="#163A49" />
+    <SolidColorBrush x:Key="PrimaryHueMidBrush" Color="#FF1174A0" />
+    <SolidColorBrush x:Key="PrimaryHueMidForegroundBrush" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#163A49" />
+    <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="#FFFFFF" />
+
+    <!--  accent  -->
+    <SolidColorBrush x:Key="SecondaryAccentBrush" Color="#0088C4" />
+    <SolidColorBrush x:Key="SecondaryAccentTransparrentBrush" Color="#770088C4" />
+    <SolidColorBrush x:Key="SecondaryAccentForegroundBrush" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="PanelBG" Color="#9F163A49" />
+    <SolidColorBrush x:Key="SucceedBrush" Color="#FF2B7A39" />
+    <SolidColorBrush x:Key="WarningBrush" Color="#FF815623" />
+    <SolidColorBrush x:Key="ErrorBrush" Color="#FF8B1C1C" />
+    <SolidColorBrush x:Key="SucceedBrushTrans" Color="#9F2B7A39" />
+    <SolidColorBrush x:Key="WarningBrushTrans" Color="#9F815623" />
+    <SolidColorBrush x:Key="ErrorBrushTrans" Color="#9F8B1C1C" />
+</ResourceDictionary>
